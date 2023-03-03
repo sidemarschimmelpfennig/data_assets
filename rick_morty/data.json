@@ -1,6 +1,6 @@
 {
     "icons":{
-        "rick":"./imgs/Rick_icon.png",
-        "morty":"./imgs/Morty_Icon.png"
+        "rick":"https://github.com/sidemarschimmelpfennig/data_assets/blob/af6f317fcfe65ca3f8204952e2821cab051de6cb/rick_morty/imgs/Rick_Icon.png",
+        "morty":"https://github.com/sidemarschimmelpfennig/data_assets/blob/af6f317fcfe65ca3f8204952e2821cab051de6cb/rick_morty/imgs/Morty_Icon.png"
     }
 }
